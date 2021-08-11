@@ -10,7 +10,7 @@
 import "./styles/global.css";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
-/*T*/
+
 export default {
   name: "App",
   components: {
